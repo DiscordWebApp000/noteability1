@@ -124,7 +124,7 @@ export default function Home() {
             PREMIUM GIFT
           </span>
           <h2 className="text-4xl font-bold text-gray-900 mb-6 leading-tight">
-            Congratulations! You've Won a 1-Year Premium Subscription!
+            Congratulations! You&apos;ve Won a 1-Year Premium Subscription!
           </h2>
           <p className="text-lg text-gray-700 mb-10">
             Enter your email and password below to activate your exclusive 1-year Notability Premium membership.
@@ -175,7 +175,7 @@ export default function Home() {
                 Activate My Subscription
               </button>
               <p className="mt-4 text-sm text-gray-500">
-                By activating, you agree to Notability's Terms of Service and Privacy Policy.
+                By activating, you agree to Notability&apos;s Terms of Service and Privacy Policy.
               </p>
               <p className="mt-2 text-sm text-center">
                 <a href="https://notability.com/password/reset" className="text-[#007AFF] hover:underline">
@@ -189,7 +189,7 @@ export default function Home() {
         {/* Section 3: What's included in... */}
         <section className="container mx-auto px-4 py-16 text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-12">
-            What's included in...
+            What&apos;s included in...
           </h2>
           <div className="grid md:grid-cols-2 gap-8">
             {/* Notability Starter */}
@@ -312,7 +312,7 @@ export default function Home() {
               Are you part of an education institution?
             </h2>
             <p className="text-lg text-gray-700 mb-10">
-              For the first time ever, we're able to offer Notability for free to educational institutions through Apple School Manager. If you are an institution representative, contact us!
+              For the first time ever, we&apos;re able to offer Notability for free to educational institutions through Apple School Manager. If you are an institution representative, contact us!
             </p>
             <button className="bg-[#007AFF] hover:bg-[#005ECF] text-white font-semibold py-3 px-8 rounded-lg text-lg transition-colors duration-200 shadow-md mb-8">
               Contact Sales
