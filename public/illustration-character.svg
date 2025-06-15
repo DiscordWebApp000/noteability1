@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Character Body -->
+  <circle cx="150" cy="100" r="60" fill="#B0C4DE"/>
+  <circle cx="150" cy="60" r="30" fill="#B0C4DE"/>
+
+  <!-- Eyes -->
+  <circle cx="135" cy="55" r="5" fill="#333333"/>
+  <circle cx="165" cy="55" r="5" fill="#333333"/>
+
+  <!-- Mouth -->
+  <path d="M140 75 Q150 85, 160 75" stroke="#333333" stroke-width="2" fill="none"/>
+
+  <!-- Arms -->
+  <path d="M120 110 C100 130, 80 140, 70 120" stroke="#B0C4DE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M180 110 C200 130, 220 140, 230 120" stroke="#B0C4DE" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Pencils (simplified) -->
+  <rect x="50" y="110" width="10" height="80" rx="5" transform="rotate(-30 50 110)" fill="#FFD700"/>
+  <rect x="240" y="110" width="10" height="80" rx="5" transform="rotate(30 240 110)" fill="#FF6B6B"/>
+
+  <!-- Floating shapes -->
+  <circle cx="80" cy="40" r="10" fill="#FFECB3"/>
+  <rect x="200" y="30" width="20" height="20" rx="5" fill="#B0C4DE"/>
+</svg> 

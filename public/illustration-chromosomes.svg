@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified representation of the chromosome illustration -->
+  <rect x="100" y="50" width="400" height="300" rx="20" fill="#FFFBE6" stroke="#E0E0E0" stroke-width="2"/>
+  <text x="150" y="100" font-family="Arial" font-size="24" fill="#FFA726">chromosomes</text>
+  <line x1="150" y1="120" x2="250" y2="120" stroke="#FFD54F" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Sample note lines -->
+  <rect x="130" y="150" width="340" height="150" rx="10" fill="#FFECB3"/>
+  <line x1="140" y1="165" x2="300" y2="165" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="180" x2="350" y2="180" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="195" x2="280" y2="195" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="210" x2="320" y2="210" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="225" x2="300" y2="225" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="240" x2="350" y2="240" stroke="#FFB300" stroke-width="1"/>
+  <line x1="140" y1="255" x2="280" y2="255" stroke="#FFB300" stroke-width="1"/>
+
+  <!-- Tablet/iPad outline -->
+  <rect x="350" y="70" width="180" height="260" rx="15" stroke="#333333" stroke-width="3" fill="none"/>
+  <circle cx="440" cy="310" r="8" fill="#333333"/>
+</svg> 

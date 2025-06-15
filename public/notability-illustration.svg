@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background texture / blob -->
+  <path d="M300 0C450 0 600 100 600 200C600 300 450 400 300 400C150 400 0 300 0 200C0 100 150 0 300 0Z" fill="#FCE4EC" opacity="0.5"/>
+  <path d="M350 50C475 50 575 150 575 225C575 300 475 375 350 375C225 375 125 300 125 225C125 150 225 50 350 50Z" fill="#F4EBCC" opacity="0.5"/>
+
+  <!-- Hand shape (simplified) -->
+  <path d="M300 200 C320 220, 350 240, 380 230 C410 220, 420 200, 400 180 C380 160, 350 150, 320 160 C290 170, 280 190, 300 200Z" fill="#D3D3D3" stroke="black" stroke-width="2"/>
+
+  <!-- Pen -->
+  <rect x="350" y="160" width="100" height="15" rx="7.5" fill="#00A3FF" stroke="#007AFF" stroke-width="2"/>
+  <circle cx="445" cy="167.5" r="5" fill="#00A3FF"/>
+
+  <!-- Sparks/Energy -->
+  <path d="M280 220 L290 200 L300 220 L290 240 Z" fill="#FFD700"/>
+  <path d="M310 260 L320 240 L330 260 L320 280 Z" fill="#FFD700"/>
+  <path d="M260 250 L270 230 L280 250 L270 270 Z" fill="#FFD700"/>
+
+  <!-- Flowing lines (simplified) -->
+  <path d="M250 150 C200 100, 150 200, 200 250" stroke="#93B1F7" stroke-width="3" fill="none"/>
+  <path d="M280 120 C230 70, 180 170, 230 220" stroke="#93B1F7" stroke-width="3" fill="none"/>
+</svg> 
